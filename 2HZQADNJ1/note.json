@@ -1,0 +1,43 @@
+{
+  "paragraphs": [
+    {
+      "text": "select * from vertex2",
+      "user": "sheel",
+      "dateUpdated": "2023-05-23 19:17:29.652",
+      "config": {
+        "colWidth": 12.0,
+        "fontSize": 9.0,
+        "enabled": true,
+        "results": {},
+        "editorSetting": {
+          "language": "scala",
+          "editOnDblClick": false,
+          "completionKey": "TAB",
+          "completionSupport": true
+        },
+        "editorMode": "ace/mode/scala"
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "apps": [],
+      "jobName": "paragraph_1684849633252_-1786679873",
+      "id": "20230523-191713_1209942020",
+      "dateCreated": "2023-05-23 19:17:13.252",
+      "status": "READY",
+      "progressUpdateIntervalMs": 500
+    }
+  ],
+  "name": "note2",
+  "id": "2HZQADNJ1",
+  "noteParams": {},
+  "noteForms": {},
+  "angularObjects": {
+    "spark:shared_process": []
+  },
+  "config": {
+    "isZeppelinNotebookCronEnable": false
+  },
+  "info": {}
+}
